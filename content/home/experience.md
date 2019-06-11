@@ -19,26 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "CEO"
-  company = "GenCoin"
+  company = "Pandarrow, Inc."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New York"
+  date_start = "2019-01-07"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Intern"
+  company = "RStudio"
+  company_url = "https://www.rstudio.com/"
+  location = ""
+  date_start = "2019-06-03"
+  date_end = ""
+  description = """Worked on the grader R package."""
 
+[[experience]]
+  title = "Data Scientist"
+  company = "Lander Analytics"
+  company_url = "https://www.landeranalytics.com/"
+  location = "New York, NY"
+  date_start = "2014-01-01"
+  date_end = ""
+
+[[experience]]
+  title = "Data Engineer"
+  company = "Social and Decision Analytics Laboratory"
+  company_url = ""
+  location = "Arlington, VA"
+  date_start = "2017-08-01"
+  date_end = ""
 +++
