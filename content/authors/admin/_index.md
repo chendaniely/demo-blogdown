@@ -61,6 +61,10 @@ moment,
 but I'm hoping work on machine learning model evaluation,
 and looking to help health practitioners understand and work with data better.
 
+[RStudio]({{ .Site.Params.rstudio }})
+[intern]({{ .Site.Params.rstudioIntern}})
+working on the [grader]({{ .Site.Params.grader }}) package
+
 [Arch Linux][arch] user and maintain the
 [RStudio Preview][aur-rstudio],
 [nteract][aur-nteract], and
